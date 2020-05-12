@@ -1,0 +1,14 @@
+addon_dir	addon_name	companion
+GameData::KIS	Kerbal Inventory System (KIS)	TweakScaleCompanion_KIS
+GameData::ReStockPlus		TweakScaleCompanion_ReStockPlus
+GameData::ReStockRigidLegs		TweakScaleCompanion_ReStockPlus
+GameData::NearFutureConstruction	Near Future Solar	TweakScaleCompanion_NF_NFC
+GameData::NearFutureElectrical	Near Future Solar	TweakScaleCompanion_NF_NFE
+GameData::NearFutureExploration	Near Future Solar	TweakScaleCompanion_NF_NFEX
+GameData::NearFutureLaunchVehicles	Near Future Solar	TweakScaleCompanion_NF_NFLV
+GameData::NearFuturePropulsion	Near Future Solar	TweakScaleCompanion_NF_NFPR
+GameData::NearFutureSpacecraft	Near Future Solar	TweakScaleCompanion_NF_NFSC
+GameData::NearFutureSolar	Near Future Solar	TweakScaleCompanion_NF_NFS
+GameData::LShipPartsModern	Large Boat Parts Pack	TweakScaleCompanion_SMCE
+GameData::LShipPartsRequired	Large Boat Parts Pack	TweakScaleCompanion_SMCE
+GameData::LShipPartsWW2	Large Boat Parts Pack	TweakScaleCompanion_SMCE
