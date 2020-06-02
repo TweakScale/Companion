@@ -470,7 +470,10 @@
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>TweakScaleCompanion_ReStockPlus</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1021"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>RestockRigidLegs</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell office:value-type="string" calcext:value-type="string">
