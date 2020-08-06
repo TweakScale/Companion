@@ -14,6 +14,16 @@ A centralised database for keeping up with the growing TweakScale Companio Progr
 
 The purpose of this project is to provide a centralised, controlled and curated (minimalistic) database to allow TweakScale to keep track of the Companions and propose actions to the user when needed.
 
+| name                            | friendly_name                            | status     | install_dir                              | download_url                             | ckan_name |
+|---------------------------------|------------------------------------------|------------|------------------------------------------|------------------------------------------|-----------|
+| TweakScaleCompanion_APP         | TweakScale Companion for Airplane Plus   | beta       | GameData/TweakScaleCompanion_APP         | https://github.com/net-lisias-ksp/TweakScaleCompanion_APP/releases | TBD       |
+| TweakScaleCompanion_FS          | TweakScale Companion for Firespitter     | alpha      | GameData/TweakScaleCompanion_FS          | https://github.com/net-lisias-ksp/TweakScaleCompanion_FS/releases | TBD       |
+| TweakScaleCompanion_KIS         | TweakScale Companion for KIS             | alpha      | GameData/TweakScaleCompanion_KIS         | https://github.com/net-lisias-ksp/TweakScaleCompanion_KIS/releases | TBD       |
+| TweakScaleCompanion_NF          | TweakScale Companion for Near Future Addons | beta       | GameData/TweakScaleCompanion_NF          | https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/releases | TBD       |
+| TweakScaleCompanion_NFS         | TweakScale Companion for Near Future Solar | deprecated | GameData/TweakScaleCompanion_NFS         | https://github.com/net-lisias-ksp/TweakScaleCompanion_NF/releases | -       |
+| TweakScaleCompanion_ReStockPlus | TweakScale Companion for ReStockPlus     | stable     | GameData/TweakScaleCompanion_ReStockPlus | https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/releases | TBD       |
+| TweakScaleCompanion_SMCE        | TweakScale Companion for SMCE (SpannerMonkey) | beta       | GameData/TweakScaleCompanion_SMCE        | https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE/releases | TBD       |
+
 
 ## Installation
 
