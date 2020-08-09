@@ -2,7 +2,6 @@ addon_dir	addon_name	companion	a.k.a
 GameData::KIS	Kerbal Inventory System (KIS)	TweakScaleCompanion_KIS	KIS
 GameData::ReStockPlus	ReStock+	TweakScaleCompanion_ReStockPlus	ReStock+
 GameData::ReStockRigidLegs	ReStock Rigid Legs	TweakScaleCompanion_ReStockPlus	RestockRigidLegs
-GameData::NearFutureSolar	Near Future Solar	TweakScaleCompanion_NF	NF
 GameData::NearFutureConstruction	Near Future Construction	TweakScaleCompanion_NF	NFC
 GameData::NearFutureElectrical	Near Future Electrical	TweakScaleCompanion_NF	NFE
 GameData::NearFutureExploration	Near Future Exploration	TweakScaleCompanion_NF	NFEX
@@ -14,4 +13,12 @@ GameData::LShipPartsModern	Large Boat Parts Pack	TweakScaleCompanion_SMCE
 GameData::LShipPartsRequired	Large Boat Parts Pack	TweakScaleCompanion_SMCE	
 GameData::LShipPartsWW2	Large Boat Parts Pack	TweakScaleCompanion_SMCE	
 GameData::Firespitter	Firespitter	TweakScaleCompanion_FS	FS
-GameData::AirplanePlus	Airplane Plus	TweakScaleCompanion_Aplus	APlus 
+GameData::AirplanePlus	Airplane Plus	TweakScaleCompanion_AAP	APP
+GameData::ArcAerospace	Arc Aerospace	TweakScaleCompanion_Multipass	
+GameData::MechJeb2	Mech Jeb	TweakScaleCompanion_Multipass	MJ2
+GameData::HabitatPack	Porkjet’s Habitat Pack	TweakScaleCompanion_LivingStyle	HabPack
+GameData::TokamakIndustries	Tokamak Refurbished Parts 	TweakScaleCompanion_LivingStyle	Tokamak
+GameData::HabPack	HabTech	TweakScaleCompanion_LivingStyle	HabTech
+GameData::HabPack2	HabTech2	TweakScaleCompanion_LivingStyle	HabTech2
+GameData::OPT	Orbital Portal Technologies	TweakScaleCompanion_OPT	OPT
+GameData::OPT_Legacy	Orbital Portal Technologies Legacy Part	TweakScaleCompanion_OPT	OPT
