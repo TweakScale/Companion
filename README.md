@@ -19,6 +19,7 @@ The purpose of this project is to provide a centralised, controlled and curated 
 * [TweakScale Companion for Airplane Plus](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP) *Beta*
 * [TweakScale Companion for Firespitter](https://github.com/net-lisias-ksp/TweakScaleCompanion_FS) *_Alpha_*
 * [TweakScale Companion for KIS](https://github.com/net-lisias-ksp/TweakScaleCompanion_KIS) *Beta*
+* [TweakScale Companion for OPT](https://github.com/net-lisias-ksp/TweakScaleCompanion_OPT) Includes OPT Legacy *_Alpha_*
 * [TweakScale Companion for ReStockPlus](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus) Production Ready
 
 And the packs
