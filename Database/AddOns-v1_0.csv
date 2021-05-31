@@ -22,3 +22,7 @@ GameData::HabPack	HabTech	TweakScaleCompanion_LivingStyle	HabTech
 GameData::HabPack2	HabTech2	TweakScaleCompanion_LivingStyle	HabTech2
 GameData::OPT	Orbital Portal Technologies	TweakScaleCompanion_OPT	OPT
 GameData::OPT_Legacy	Orbital Portal Technologies Legacy Part	TweakScaleCompanion_OPT	OPT
+GameData::CxAerospace	CxAerospace Station Parts	TweakScaleCompanion_LivingStyle	CXA
+GameData::NeistAir	Neist Airliner Parts	TweakScaleCompanion_NAP	NAP
+GameData::Waterfall	Waterfall FX	TweakScaleCompanion_Visuals	
+GameData::RealEnginesPack	Real Engines	TweakScaleCompanion_Rockets	
