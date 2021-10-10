@@ -16,14 +16,33 @@ The purpose of this project is to provide a centralised, controlled and curated 
 
 ### Current Companions
 
+#### Gold Status
+
+* [TweakScale Companion for Firespitter](https://github.com/net-lisias-ksp/TweakScaleCompanion_FS)
+	+ For (surpringly :P) [Firespiter](https://forum.kerbalspaceprogram.com/index.php?/topic/184773-*/)
+* [TweakScale Companion for KIS](https://github.com/net-lisias-ksp/TweakScaleCompanion_KIS)
+	+ For (surpringly :P) [KIS](https://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)
+* [TweakScale Companion PKMC](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC)
+	+ [Near Future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-*/)
+		- Near Future Aeronautics
+		- Near Future Construction
+		- Near Future Electric
+		- Near Future Exploration
+		- Near Future Launch Vehicles
+		- Near Future Propulsion
+		- Near Future Solar
+		- Near Future Space Craft
+	+ Stock alike Space Station Expansion ([Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*/) and Legacy)
+* [TweakScale Companion for ReStockPlus](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus)
+	+ For [ReStock[+]](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/)
+
+#### Alphas, Betas and Release Candidades
+
 * [TweakScale Companion for Airplane Plus](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP) *Beta*
-* [TweakScale Companion for Firespitter](https://github.com/net-lisias-ksp/TweakScaleCompanion_FS) *_Alpha_*
-* [TweakScale Companion for KIS](https://github.com/net-lisias-ksp/TweakScaleCompanion_KIS) *Beta*
-* [TweakScale Companion for OPT](https://github.com/net-lisias-ksp/TweakScaleCompanion_OPT) Includes OPT Legacy *_Alpha_*
-* [TweakScale Companion for ReStockPlus](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus) Production Ready
-
-And the packs
-
+* [TweakScale Companion Frameworks](https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks)
+	+ [Waterfall](https://forum.kerbalspaceprogram.com/index.php?/topic/196309-*/)
+* [TweakScale Companion for OPT](https://github.com/net-lisias-ksp/TweakScaleCompanion_OPT) *_Alpha_*
+	+ For OPT (including Legacy) 
 * [TweakScale Companion LivingStyle](https://github.com/net-lisias-ksp/TweakScaleCompanion_LivingStyle) *Beta*
 	+ PorkJet's HabPack
 	+ HabTech (1)
@@ -32,15 +51,6 @@ And the packs
 * [TweakScale Companion Multipass](https://github.com/net-lisias-ksp/TweakScaleCompanion_Multipass) *Beta*
 	+ Arc Aerospace
 	+ MechJeb 2 
-* [TweakScale Companion Near Future](https://github.com/net-lisias-ksp/TweakScaleCompanion_NF) *Beta*
-	+ Near Future Aeronautics
-	+ Near Future Construction
-	+ Near Future Electric
-	+ Near Future Exploration
-	+ Near Future Launch Vehicles
-	+ Near Future Propulsion
-	+ Near Future Solar
-	+ Near Future Space Craft
 * [TweakScale Companion SpannerMonkey](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE) *Beta*
 	+ Large Ship Parts pack 
 
