@@ -14,7 +14,7 @@ Provides a mega package including all Companions currently published for the laz
 	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion/blob/master/INSTALL.md)
 * Official Distribution Sites:
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/tweakscale-companion)
-	+ SpaceDock (WiP)
+	+ [SpaceDock](https://spacedock.info/mod/3202/TweakScale%20Companion)
 	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScaleCompanion) on L Aerospace
 	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion/releases)
 
