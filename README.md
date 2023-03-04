@@ -30,10 +30,12 @@ The purpose of this project is to provide a centralised, controlled and curated 
 #### Gold Status
 
 * [TweakScale Companion for Firespitter](https://github.com/net-lisias-ksp/TweakScaleCompanion_FS)
-	+ For (surpringly :P) [Firespiter](https://forum.kerbalspaceprogram.com/index.php?/topic/184773-*/)
+	+ For (surpringly :P) [Firespiter](https://forum.kerbalspaceprogram.com/index.php?/topic/22583-*/)
+	+ and [Firespiter Extended](https://forum.kerbalspaceprogram.com/index.php?/topic/184773-*/)
 * [TweakScale Companion for KIS](https://github.com/net-lisias-ksp/TweakScaleCompanion_KIS)
 	+ For (surpringly :P) [KIS](https://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)
 * [TweakScale Companion PKMC](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC)
+	+ [Far Future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/199070-*/) 
 	+ [Near Future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-*/)
 		- Near Future Aeronautics
 		- Near Future Construction
@@ -45,26 +47,51 @@ The purpose of this project is to provide a centralised, controlled and curated 
 		- Near Future Space Craft
 	+ Stock alike Space Station Expansion ([Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*/) and Legacy)
 * [TweakScale Companion for ReStockPlus](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus)
-	+ For [ReStock[+]](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/)
+[]	+ For [ReStock[+]](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/)
 
-#### Alphas, Betas and Release Candidades
+#### Alphas, Betas and Release Candidates
 
 * [TweakScale Companion for Airplane Plus](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP) *Beta*
-* [TweakScale Companion Frameworks](https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks)
+	- For Airplane Plus
+* [TweakScale Companion Frameworks](https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks) *_Alpha_*
 	+ [Waterfall](https://forum.kerbalspaceprogram.com/index.php?/topic/196309-*/)
 * [TweakScale Companion for OPT](https://github.com/net-lisias-ksp/TweakScaleCompanion_OPT) *_Alpha_*
-	+ For OPT (including Legacy) 
+	+ For OPT
+		- [Classic](https://forum.kerbalspaceprogram.com/index.php?/topic/87956-*/)
+		- [Legacy](https://forum.kerbalspaceprogram.com/index.php?/topic/173833-*/)
+		- [Continued](https://forum.kerbalspaceprogram.com/index.php?/topic/196187-*/) 
 * [TweakScale Companion LivingStyle](https://github.com/net-lisias-ksp/TweakScaleCompanion_LivingStyle) *Beta*
-	+ PorkJet's HabPack
-	+ HabTech (1)
-	+ HabTech 2
-	+ Tokamak Industries 
+	+ [CxAerospace Station Parts](https://forum.kerbalspaceprogram.com/index.php?/topic/138910-*/) 
+	+ [PorkJet's HabPack](https://forum.kerbalspaceprogram.com/index.php?/topic/58534-*/)
+	+ [HabTech (1)](https://forum.kerbalspaceprogram.com/index.php?/topic/133501-*/)
+	+ [HabTech 2](https://forum.kerbalspaceprogram.com/index.php?/topic/133501-*/)
+	+ [Station Parts Expansion (Classic)](https://forum.kerbalspaceprogram.com/index.php?/topic/155480-*/)
+	+ [Tokamak Industries](https://forum.kerbalspaceprogram.com/index.php?/topic/163166-*/) 
 * [TweakScale Companion Multipass](https://github.com/net-lisias-ksp/TweakScaleCompanion_Multipass) *Beta*
-	+ Arc Aerospace
-	+ MechJeb 2 
+	+ [Arc Aerospace](https://forum.kerbalspaceprogram.com/index.php?/topic/165224-*/)
+	+ [MechJeb 2 ](https://forum.kerbalspaceprogram.com/index.php?/topic/154834-*/)
+	+ [Tarsier Space Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/154853-*/)
 * [TweakScale Companion SpannerMonkey](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE) *Beta*
-	+ Large Ship Parts pack 
+	+ [Large Ship Parts pack](https://forum.kerbalspaceprogram.com/index.php?/topic/155992-*/) 
 
+#### Unreleased
+
+The following are planned or in the works but still unreleased, Companions:
+
+* [TweakScale Companion ChitChat](https://github.com/net-lisias-ksp/TweakScaleCompanion_ChitChat/)
+	- WiP 
+* [TweakScale Companion Fitness & Health](https://github.com/net-lisias-ksp/TweakScaleCompanion_FitAndHealth/)
+	- WiP 
+* [TweakScale Companion for Fuel Switches](https://github.com/net-lisias-ksp/TweakScaleCompanion_FuelSwitches/)
+	- WiP 
+* [TweakScale Companion Legacy](https://github.com/net-lisias-ksp/TweakScaleCompanion_Legacy/)
+	- WiP 
+* [TweakScale Companion for Modular Fuel Tanks](https://github.com/net-lisias-ksp/TweakScaleCompanion_MFT/releases)
+	- [Modular Fuel Tanks](https://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/)
+	- [RealFuels](https://forum.kerbalspaceprogram.com/index.php?/topic/58236-*) 
+* [TweakScale Companion for Universal Storage](https://github.com/net-lisias-ksp/TweakScaleCompanion_US/)
+	- [Universal Storage (I)](https://forum.kerbalspaceprogram.com/index.php?/topic/68043-universal-storage/)
+	- [Universal Storage (II)](https://forum.kerbalspaceprogram.com/index.php?/topic/177385-universal-storage-ii/)
 
 ## Installation
 
