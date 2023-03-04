@@ -1,30 +1,40 @@
 addon_dir	addon_name	companion	a.k.a
 GameData::KIS	Kerbal Inventory System (KIS)	TweakScaleCompanion_KIS	KIS
+GameData::ReStock	ReStock	TweakScaleCompanion_ReStockPlus	ReStock
 GameData::ReStockPlus	ReStock+	TweakScaleCompanion_ReStockPlus	ReStock+
 GameData::ReStockRigidLegs	ReStock Rigid Legs	TweakScaleCompanion_ReStockPlus	RestockRigidLegs
-GameData::NearFutureConstruction	Near Future Construction	TweakScaleCompanion_PKMC	NFC
+GameData::FarFutureTechnologies	Far Future Technologies	TweakScaleCompanion_PKMC	FFT
+GameData::NearFutureAeronautics	Near Future Aeronautics	TweakScaleCompanion_PKMC	NFA
+GameData::NearFutureConstruction	Near Future Construction	TweakScaleCompanion_PKMC
 GameData::NearFutureElectrical	Near Future Electrical	TweakScaleCompanion_PKMC	NFE
 GameData::NearFutureExploration	Near Future Exploration	TweakScaleCompanion_PKMC	NFEX
 GameData::NearFutureLaunchVehicles	Near Future Launch Vehicles	TweakScaleCompanion_PKMC	NFLV
 GameData::NearFuturePropulsion	Near Future Propulsion	TweakScaleCompanion_PKMC	NFPR
 GameData::NearFutureSpacecraft	Near Future Spacecraft	TweakScaleCompanion_PKMC	NFSC
 GameData::NearFutureSolar	Near Future Solar	TweakScaleCompanion_PKMC	NFS
+GameData::StationPartsExpansionRedux	Stockalike Station Parts Expansion Redux	TweakScaleCompanion_PKMC	SSPX
 GameData::LShipPartsModern	Large Boat Parts Pack	TweakScaleCompanion_SMCE
 GameData::LShipPartsRequired	Large Boat Parts Pack	TweakScaleCompanion_SMCE
 GameData::LShipPartsWW2	Large Boat Parts Pack	TweakScaleCompanion_SMCE
 GameData::Firespitter	Firespitter	TweakScaleCompanion_FS	FS
+GameData::FirespitterExtended	Firespitter Extended	TweakScaleCompanion_FS	FSX
 GameData::AirplanePlus	Airplane Plus	TweakScaleCompanion_APP	APP
 GameData::ArcAerospace	Arc Aerospace	TweakScaleCompanion_Multipass
 GameData::MechJeb2	Mech Jeb	TweakScaleCompanion_Multipass	MJ2
+GameData::TarsierSpaceTech	Tarsier Space Technologies	TweakScaleCompanion_Multipass	TST
 GameData::HabitatPack	Porkjet’s Habitat Pack	TweakScaleCompanion_LivingStyle	HabPack
 GameData::TokamakIndustries	Tokamak Refurbished Parts 	TweakScaleCompanion_LivingStyle	Tokamak
 GameData::HabPack	HabTech	TweakScaleCompanion_LivingStyle	HabTech
 GameData::HabPack2	HabTech2	TweakScaleCompanion_LivingStyle	HabTech2
-GameData::OPT	Orbital Portal Technologies	TweakScaleCompanion_OPT	OPT
-GameData::OPT_Legacy	Orbital Portal Technologies Legacy Part	TweakScaleCompanion_OPT	OPT
+GameData::StationPartsExpansion	Stockalike Station Parts Expansion	TweakScaleCompanion_LivingStyle
+GameData::OPT	Orbital Portal Technologies Classic	TweakScaleCompanion_OPT	OPT
+GameData::OPT	Orbital Portal Technologies Continued	TweakScaleCompanion_OPT	OPT
+GameData::OPT_Legacy	Orbital Portal Technologies Legacy Parts	TweakScaleCompanion_OPT	OPT
 GameData::CxAerospace	CxAerospace Station Parts	TweakScaleCompanion_LivingStyle	CXA
 GameData::NeistAir	Neist Airliner Parts	TweakScaleCompanion_NAP	NAP
 GameData::Waterfall	Waterfall FX	TweakScaleCompanion_Frameworks
 GameData::RealEnginesPack	Real Engines	TweakScaleCompanion_Rockets
 GameData::UniversalStorage	Universal Storage	TweakScaleCompanion_US	US
-GameData::UniversalStorage2	Universal Storage II	TweakScaleCompanion_US	US2
+GameData::UniversalStorage2	Universal Storage II	TweakScaleCompanion_US
+GameData::RealFuels	Real Fuels	TweakScaleCompanion_FuelSwitches
+GameData::ModularFujelTanks	Modular Fuel Tanks	TweakScaleCompanion_FuelSwitches	MFT
