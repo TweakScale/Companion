@@ -4,9 +4,9 @@
 	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion/releases",
 
 	"VERSION":{
-		"MAJOR":2022,
-		"MINOR":5,
-		"PATCH":22,
+		"MAJOR":2023,
+		"MINOR":3,
+		"PATCH":04,
 		"BUILD":0
 		},
 	"KSP_VERSION_MIN":{
