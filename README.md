@@ -53,7 +53,11 @@ The purpose of this project is to provide a centralised, controlled and curated 
 
 * [TweakScale Companion for Airplane Plus](https://github.com/net-lisias-ksp/TweakScaleCompanion_APP) *Beta*
 	- For Airplane Plus
-* [TweakScale Companion Frameworks](https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks) *_Alpha_*
+* [TweakScale Companion Frameworks](https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks) *Beta*
+	+ [Test Flight](https://forum.kerbalspaceprogram.com/index.php?/topic/99043-*/)
+	+ [Cryo Tanks](https://forum.kerbalspaceprogram.com/index.php?/topic/195042-*/)
+	+ [Space Dust](https://forum.kerbalspaceprogram.com/index.php?/topic/197723-*/)
+	+ [System Heat](https://forum.kerbalspaceprogram.com/index.php?/topic/193909-*/)
 	+ [Waterfall](https://forum.kerbalspaceprogram.com/index.php?/topic/196309-*/)
 * [TweakScale Companion for OPT](https://github.com/net-lisias-ksp/TweakScaleCompanion_OPT) *_Alpha_*
 	+ For OPT

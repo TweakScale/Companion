@@ -13,7 +13,7 @@ TweakScaleCompanion_OPT	TweakScale Companion for OPT	GameDatabase::TweakScaleCom
 TweakScaleCompanion_ReStockPlus	TweakScale Companion for ReStockPlus	GameDatabase::TweakScaleCompanion::ReStockPlus	https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/releases	TweakScaleCompanion-ReStockPlus	stable
 TweakScaleCompanion_Rockets	TweakScale Companion Rockets	GameDatabase::TweakScaleCompanion::Rockets	https://github.com/net-lisias-ksp/TweakScaleCompanion_Rockets/releases		beta
 TweakScaleCompanion_SMCE	TweakScale Companion SMCE (SpannerMonkey)	GameDatabase::TweakScaleCompanion::SMCE	https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE/releases		beta
-TweakScaleCompanion_Frameworks	TweakScale Companion Frameworks	GameDatabase::TweakScaleCompanion::Frameworks	https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks/releases		alpha
+TweakScaleCompanion_Frameworks	TweakScale Companion Frameworks	GameDatabase::TweakScaleCompanion::Frameworks	https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks/releases		beta
 TweakScaleCompanion_PKMC	TweakScale Companion PKMC	GameDatabase::TweakScaleCompanion::PKMC	https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/releases		stable
 TweakScaleCompanion_US	TweakScale Companion for Universal Storage	GameDatabase::TweakScaleCompanion::US	https://github.com/net-lisias-ksp/TweakScaleCompanion_US/releases		unreleased
 TweakScaleCompanion_FuelSwitches	TweakScale Companion for Fuel Switches	GameDatabase::TweakScaleCompanion::FuelSwitches	https://github.com/net-lisias-ksp/TweakScaleCompanion_FuelSwitches/releases		unreleased

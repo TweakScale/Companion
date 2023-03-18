@@ -32,6 +32,10 @@ GameData::OPT	Orbital Portal Technologies Continued	TweakScaleCompanion_OPT	OPT	
 GameData::OPT_Legacy	Orbital Portal Technologies Legacy Parts	TweakScaleCompanion_OPT	OPT	https://github.com/StoneBlue/OPT_Streamlined/releases/	https://forum.kerbalspaceprogram.com/index.php?/topic/173833-*/	0
 GameData::CxAerospace	CxAerospace Station Parts	TweakScaleCompanion_LivingStyle	CXA	https://spacedock.info/mod/64/CxAerospace:%20Station%20Parts%20Pack	https://forum.kerbalspaceprogram.com/index.php?/topic/138910-*/	0
 GameData::NeistAir	Neist Airliner Parts	TweakScaleCompanion_NAP	NAP	https://github.com/neistridlar/Neist-Airliner-Parts/	https://forum.kerbalspaceprogram.com/index.php?/topic/174152-*/	0
+GameData::TestFlight	Test Flight	TweakScaleCompanion_Frameworks		https://github.com/KSP-RO/TestFlight/releases	https://forum.kerbalspaceprogram.com/index.php?/topic/99043-*/	0
+GameData::CryoTanks	Cryo Tanks	TweakScaleCompanion_Frameworks		https://github.com/post-kerbin-mining-corporation/CryoTanks/releases	https://forum.kerbalspaceprogram.com/index.php?/topic/195042-*/	0
+GameData::SpaceDust	Space Dust	TweakScaleCompanion_Frameworks		https://github.com/post-kerbin-mining-corporation/SpaceDust/releases	https://forum.kerbalspaceprogram.com/index.php?/topic/197723-*/	0
+GameData::SystemHeat	System Heat	TweakScaleCompanion_Frameworks		https://github.com/post-kerbin-mining-corporation/SystemHeat/releases	https://forum.kerbalspaceprogram.com/index.php?/topic/193909-*/	0
 GameData::Waterfall	Waterfall FX	TweakScaleCompanion_Frameworks		https://github.com/post-kerbin-mining-corporation/Waterfall/releases	https://forum.kerbalspaceprogram.com/index.php?/topic/196309-*/	0
 GameData::RealEnginesPack	Real Engines	TweakScaleCompanion_Rockets		https://spacedock.info/mod/1212/RealEngines	https://forum.kerbalspaceprogram.com/index.php?/topic/154624-*/	0
 GameData::UniversalStorage	Universal Storage	TweakScaleCompanion_US	US	https://spacedock.info/mod/329/Universal%20Storage#changelog	https://forum.kerbalspaceprogram.com/index.php?/topic/68043-*/	0
