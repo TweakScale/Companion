@@ -1,0 +1,17 @@
+{
+	"NAME"		: "TweakScale Companion",
+	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion/master/TweakScaleCompanion.version",
+	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion/releases",
+
+	"VERSION":{
+		"MAJOR":2023,
+		"MINOR":3,
+		"PATCH":04,
+		"BUILD":0
+		},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":3,
+		"PATCH":0
+		}
+}

@@ -1,0 +1,18 @@
+{
+	"NAME"		: "TweakScale Companion for Airplane Plus",
+	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_APP/master/TweakScaleCompanion.APP.version",
+	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion_APP/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_APP/master/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_APP/master/CHANGES.md",
+	"VERSION":{
+		"MAJOR":0,
+		"MINOR":1,
+		"PATCH":0,
+		"BUILD":0
+		},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":2
+		}
+}

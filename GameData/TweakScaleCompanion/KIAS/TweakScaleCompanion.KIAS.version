@@ -1,0 +1,18 @@
+{
+	"NAME"		: "TweakScale Companion for Kerbal Inventory & Attachment System (KIAS)",
+	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_KIAS/master/TweakScaleCompanion.KIAS.version",
+	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion_KIAS/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_KIAS/master/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_KIAS/master/CHANGES.md",
+	"VERSION":{
+		"MAJOR":1,
+		"MINOR":1,
+		"PATCH":0,
+		"BUILD":0
+		},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":3,
+		"PATCH":0
+		}
+}
