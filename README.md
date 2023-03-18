@@ -6,18 +6,21 @@ Provides a mega package including all Companions currently published for the laz
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion/issues)
 * Documentation
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*)
+	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScaleCompanion/) on L Aerospace
 	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion/blob/master/README.md)
 	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion/blob/master/INSTALL.md)
 * Official Distribution Sites:
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/tweakscale-companion)
 	+ [SpaceDock](https://spacedock.info/mod/3202/TweakScale%20Companion)
-	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScaleCompanion) on L Aerospace
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion/releases)
-
+	+ [Latest Release on Github](https://github.com/net-lisias-ksp/TweakScaleCompanion/releases)
+* Support
+	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScaleCompanion/Support/) on L Aerospace
+	+ [Reddit](https://www.reddit.com/r/TweakScale/)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*)
+	+ [Discussions on Github](https://github.com/net-lisias-ksp/TweakScaleCompanion/discussions/categories/support)
+* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion)
+	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion/issues)
 
 ## Description
 
@@ -32,8 +35,10 @@ The purpose of this project is to provide a centralised, controlled and curated 
 * [TweakScale Companion for Firespitter](https://github.com/net-lisias-ksp/TweakScaleCompanion_FS)
 	+ For (surpringly :P) [Firespiter](https://forum.kerbalspaceprogram.com/index.php?/topic/22583-*/)
 	+ and [Firespiter Extended](https://forum.kerbalspaceprogram.com/index.php?/topic/184773-*/)
-* [TweakScale Companion for KIS](https://github.com/net-lisias-ksp/TweakScaleCompanion_KIS)
-	+ For (surpringly :P) [KIS](https://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)
+* [TweakScale Companion for KIAS](https://github.com/net-lisias-ksp/TweakScaleCompanion_KIAS)
+	+ [KIS](https://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)
+	+ [KAS](https://forum.kerbalspaceprogram.com/index.php?/topic/142594-*)
+		- (unreleased)
 * [TweakScale Companion PKMC](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC)
 	+ [Far Future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/199070-*/) 
 	+ [Near Future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-*/)
@@ -47,7 +52,7 @@ The purpose of this project is to provide a centralised, controlled and curated 
 		- Near Future Space Craft
 	+ Stock alike Space Station Expansion ([Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*/) and Legacy)
 * [TweakScale Companion for ReStockPlus](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus)
-[]	+ For [ReStock[+]](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/)
+	+ For [ReStock[+]](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/)
 
 #### Alphas, Betas and Release Candidates
 
@@ -97,6 +102,7 @@ The following are planned or in the works but still unreleased, Companions:
 	- [Universal Storage (I)](https://forum.kerbalspaceprogram.com/index.php?/topic/68043-universal-storage/)
 	- [Universal Storage (II)](https://forum.kerbalspaceprogram.com/index.php?/topic/177385-universal-storage-ii/)
 
+
 ## Installation
 
 Detailed installation instructions are now on its own file (see the [In a Hurry](#in-a-hurry) section) and on the distribution file.
@@ -123,8 +129,9 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 ## References
 
 * TweakScale /L ([LisiasT](https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/))
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/)
+	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScale) on L Aerospace
+	+ [Reddit](https://www.reddit.com/r/TweakScale/)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScale) on L Aerospace
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale).
+	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
