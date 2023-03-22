@@ -1,12 +1,12 @@
 {
-	"NAME"		: "TweakScale Companion",
+	"NAME"		: "TweakScale Companion (The UberPaket)",
 	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion/master/TweakScaleCompanion.version",
 	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion/releases",
 
 	"VERSION":{
 		"MAJOR":2023,
 		"MINOR":3,
-		"PATCH":04,
+		"PATCH":18,
 		"BUILD":0
 		},
 	"KSP_VERSION_MIN":{
