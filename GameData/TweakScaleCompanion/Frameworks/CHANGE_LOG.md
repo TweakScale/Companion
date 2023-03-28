@@ -1,5 +1,8 @@
 # TweakScale Companion :: Frameworks :: Change Log
 
+* 2023-0328: 0.4.0.1 **Beta** (LisiasT) for KSP >= 1.2.2
+	+ Adjusts the Assembly Loading mechanism, allowing the thing to be loaded at first place!
+		- Don't ask how I let this pass trough - I don't remember. :/
 * 2023-0318: 0.4.0.0 **Beta** (LisiasT) for KSP >= 1.2.2
 	+ Removes deprecated calls to KSPe. Minimum target is v2.5 now.
 	+ Renders it compatible to TweakScale 2.4.7.0 and superior only.
