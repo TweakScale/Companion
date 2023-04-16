@@ -1,5 +1,7 @@
 # TweakScale Companion :: Frameworks :: Change Log
 
+* 2023-0416: 0.4.0.2 **Beta** (LisiasT) for KSP >= 1.2.2
+	+ Removes a spurious dependency clausule on `TweakScalerTestFlightCore`
 * 2023-0328: 0.4.0.1 **Beta** (LisiasT) for KSP >= 1.2.2
 	+ Adjusts the Assembly Loading mechanism, allowing the thing to be loaded at first place!
 		- Don't ask how I let this pass trough - I don't remember. :/
