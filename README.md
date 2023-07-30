@@ -77,12 +77,12 @@ The purpose of this project is to provide a centralised, controlled and curated 
 	+ [Station Parts Expansion (Classic)](https://forum.kerbalspaceprogram.com/index.php?/topic/155480-*/)
 	+ [Tokamak Industries](https://forum.kerbalspaceprogram.com/index.php?/topic/163166-*/) 
 * [TweakScale Companion Multipass](https://github.com/net-lisias-ksp/TweakScaleCompanion_Multipass) *Beta*
-	+ [Arc Aerospace](https://forum.kerbalspaceprogram.com/index.php?/topic/165224-*/)
 	+ [MechJeb 2 ](https://forum.kerbalspaceprogram.com/index.php?/topic/154834-*/)
 	+ [Tarsier Space Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/154853-*/)
 * [TweakScale Companion SpannerMonkey](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE) *Beta*
 	+ [Large Ship Parts pack](https://forum.kerbalspaceprogram.com/index.php?/topic/155992-*/) 
 * [TweakScale Companion for Rockets](https://github.com/net-lisias-ksp/TweakScaleCompanion_Rockets) *Beta*
+	+ [Arc Aerospace](https://forum.kerbalspaceprogram.com/index.php?/topic/165224-*/)
 	+ [RealEngines](https://forum.kerbalspaceprogram.com/index.php?/topic/154624-*/)
 
 
