@@ -82,6 +82,9 @@ The purpose of this project is to provide a centralised, controlled and curated 
 	+ [Tarsier Space Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/154853-*/)
 * [TweakScale Companion SpannerMonkey](https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE) *Beta*
 	+ [Large Ship Parts pack](https://forum.kerbalspaceprogram.com/index.php?/topic/155992-*/) 
+* [TweakScale Companion for Rockets](https://github.com/net-lisias-ksp/TweakScaleCompanion_Rockets) *Beta*
+	+ [RealEngines](https://forum.kerbalspaceprogram.com/index.php?/topic/154624-*/)
+
 
 #### Unreleased
 
@@ -98,9 +101,13 @@ The following are planned or in the works but still unreleased, Companions:
 * [TweakScale Companion for Modular Fuel Tanks](https://github.com/net-lisias-ksp/TweakScaleCompanion_MFT/releases)
 	- [Modular Fuel Tanks](https://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/)
 	- [RealFuels](https://forum.kerbalspaceprogram.com/index.php?/topic/58236-*) 
+* [TweakScale Companion for Space Planes](https://github.com/net-lisias-ksp/TweakScaleCompanion_SpacePlanes/)
+	- WiP 
 * [TweakScale Companion for Universal Storage](https://github.com/net-lisias-ksp/TweakScaleCompanion_US/)
 	- [Universal Storage (I)](https://forum.kerbalspaceprogram.com/index.php?/topic/68043-universal-storage/)
 	- [Universal Storage (II)](https://forum.kerbalspaceprogram.com/index.php?/topic/177385-universal-storage-ii/)
+* [TweakScale Companion for Wild Blue Industries](https://github.com/net-lisias-ksp/TweakScaleCompanion_WBI/)
+	- WiP 
 
 
 ## Installation
