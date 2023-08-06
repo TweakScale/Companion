@@ -18,7 +18,7 @@ GameData::LShipPartsRequired	Large Boat Parts Pack	TweakScaleCompanion_SMCE		htt
 GameData::LShipPartsWW2	Large Boat Parts Pack	TweakScaleCompanion_SMCE		https://spacedock.info/mod/167/Large%20Boat%20Parts%20Pack#changelog	http://forum.kerbalspaceprogram.com/index.php?/topic/155992-*/	0
 GameData::Firespitter	Firespitter	TweakScaleCompanion_FS	FS	https://forum.kerbalspaceprogram.com/index.php?/topic/22583-*/	https://github.com/snjo/Firespitter	1
 GameData::FirespitterExtended	Firespitter Extended	TweakScaleCompanion_FS	FSX	https://forum.kerbalspaceprogram.com/index.php?/topic/184773-*/	https://spacedock.info/mod/2156/Firespitter%20Extended#changelog	1
-GameData::AirplanePlus	Airplane Plus	TweakScaleCompanion_APP	APP			0
+GameData::AirplanePlus	Airplane Plus	TweakScaleCompanion_AirCrafts	APP			0
 GameData::ArcAerospace	Arc Aerospace	TweakScaleCompanion_Rockets		https://drive.google.com/open?id=0B3KjWA5ZuxhrZmcydDhseE0xVzQ	https://forum.kerbalspaceprogram.com/index.php?/topic/165224-13-*/	0
 GameData::MechJeb2	Mech Jeb	TweakScaleCompanion_Multipass	MJ2	https://www.curseforge.com/kerbal/ksp-mods/mechjeb	https://forum.kerbalspaceprogram.com/index.php?/topic/154834-*/	0
 GameData::TarsierSpaceTech	Tarsier Space Technologies	TweakScaleCompanion_Multipass	TST	https://www.curseforge.com/kerbal/ksp-mods/tarsier-space-technology-continued	https://forum.kerbalspaceprogram.com/index.php?/topic/154853-*/	0
@@ -31,7 +31,7 @@ GameData::OPT	Orbital Portal Technologies Classic	TweakScaleCompanion_OPT	OPT	ht
 GameData::OPT	Orbital Portal Technologies Continued	TweakScaleCompanion_OPT	OPT	https://github.com/StoneBlue/OPT_Streamlined/releases/	https://forum.kerbalspaceprogram.com/index.php?/topic/196187-*/	0
 GameData::OPT_Legacy	Orbital Portal Technologies Legacy Parts	TweakScaleCompanion_OPT	OPT	https://github.com/StoneBlue/OPT_Streamlined/releases/	https://forum.kerbalspaceprogram.com/index.php?/topic/173833-*/	0
 GameData::CxAerospace	CxAerospace Station Parts	TweakScaleCompanion_LivingStyle	CXA	https://spacedock.info/mod/64/CxAerospace:%20Station%20Parts%20Pack	https://forum.kerbalspaceprogram.com/index.php?/topic/138910-*/	0
-GameData::NeistAir	Neist Airliner Parts	TweakScaleCompanion_NAP	NAP	https://github.com/neistridlar/Neist-Airliner-Parts/	https://forum.kerbalspaceprogram.com/index.php?/topic/174152-*/	0
+GameData::NeistAir	Neist Airliner Parts	TweakScaleCompanion_AirCrafts	NAP	https://github.com/neistridlar/Neist-Airliner-Parts/	https://forum.kerbalspaceprogram.com/index.php?/topic/174152-*/	0
 GameData::TestFlight	Test Flight	TweakScaleCompanion_Frameworks		https://github.com/KSP-RO/TestFlight/releases	https://forum.kerbalspaceprogram.com/index.php?/topic/99043-*/	0
 GameData::CryoTanks	Cryo Tanks	TweakScaleCompanion_Frameworks		https://github.com/post-kerbin-mining-corporation/CryoTanks/releases	https://forum.kerbalspaceprogram.com/index.php?/topic/195042-*/	0
 GameData::SpaceDust	Space Dust	TweakScaleCompanion_Frameworks		https://github.com/post-kerbin-mining-corporation/SpaceDust/releases	https://forum.kerbalspaceprogram.com/index.php?/topic/197723-*/	0
@@ -41,4 +41,4 @@ GameData::RealEnginesPack	Real Engines	TweakScaleCompanion_Rockets		https://spac
 GameData::UniversalStorage	Universal Storage	TweakScaleCompanion_US	US	https://spacedock.info/mod/329/Universal%20Storage#changelog	https://forum.kerbalspaceprogram.com/index.php?/topic/68043-*/	0
 GameData::UniversalStorage2	Universal Storage II	TweakScaleCompanion_US	US2	https://spacedock.info/mod/1933/Universal%20Storage%20II#changelog	https://forum.kerbalspaceprogram.com/index.php?/topic/177385-*/	0
 GameData::RealFuels	Real Fuels	TweakScaleCompanion_FuelSwitches		https://github.com/NathanKell/ModularFuelSystem/releases	https://forum.kerbalspaceprogram.com/index.php?/topic/58236-*/	1
-GameData::ModularFujelTanks	Modular Fuel Tanks	TweakScaleCompanion_FuelSwitches	MFT	http://taniwha.org/~bill/ModularFuelTanks_v5.13.1.zip	https://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/	1
+GameData::ModularFuelTanks	Modular Fuel Tanks	TweakScaleCompanion_FuelSwitches	MFT	http://taniwha.org/~bill/ModularFuelTanks_v5.13.1.zip	https://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/	1
