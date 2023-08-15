@@ -18,6 +18,7 @@ Provides a mega package including all Companions currently published for the laz
 	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScaleCompanion/Support/) on L Aerospace
 	+ [Reddit](https://www.reddit.com/r/TweakScale/)
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*)
+		- [Abbreviation's thread](https://forum.kerbalspaceprogram.com/topic/194416-abbreviations-for-addons/). 
 	+ [Discussions on Github](https://github.com/TweakScale/Companion/discussions/categories/support)
 * [Source](https://github.com/TweakScale/Companion)
 	+ [Issue Tracker](https://github.com/TweakScale/Companion/issues)
