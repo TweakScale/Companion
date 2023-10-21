@@ -73,12 +73,11 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 ## References
 
 * TweakScale /L ([LisiasT](https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/))
-	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScale) on L Aerospace
-	+ [Reddit](https://www.reddit.com/r/TweakScale/)
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
+	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScale) on L Aerospace
+	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale).
 * Kerbal Attachment System (KAS) ([IgorZ](https://forum.kerbalspaceprogram.com/index.php?/profile/155445-igorz/))
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/149848-minimum-ksp-version-18-kerbal-inventory-system-kis-v125/)
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/kerbal-attachment-system-kas)
