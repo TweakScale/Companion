@@ -60,6 +60,7 @@ The purpose of this project is to provide a centralised, controlled and curated 
 * [TweakScale Companion for AirCrafts](https://github.com/TweakScale/Companion_AirCrafts) *RC*
 	- [Airplane Plus](https://forum.kerbalspaceprogram.com/topic/140262-14x-18x-airplane-plus-r264-fixed-issuesgithub-is-up-to-date-dec-21-2019/)
 	- [Neist Airline Parts](https://forum.kerbalspaceprogram.com/topic/174152-wip-neist-airliner-parts/)
+	- [Stock eXTension - SXT](https://forum.kerbalspaceprogram.com/topic/151129-112x-sxt-continued/)
 * [TweakScale Companion Frameworks](https://github.com/TweakScale/Companion_Frameworks) *Beta*
 	+ [Test Flight](https://forum.kerbalspaceprogram.com/index.php?/topic/99043-*/)
 	+ [Cryo Tanks](https://forum.kerbalspaceprogram.com/index.php?/topic/195042-*/)
@@ -77,12 +78,14 @@ The purpose of this project is to provide a centralised, controlled and curated 
 	+ [HabTech (1)](https://forum.kerbalspaceprogram.com/index.php?/topic/133501-*/)
 	+ [HabTech 2](https://forum.kerbalspaceprogram.com/index.php?/topic/133501-*/)
 	+ [Station Parts Expansion (Classic)](https://forum.kerbalspaceprogram.com/index.php?/topic/155480-*/)
+	+ [Station Parts Expansion Redux](https://forum.kerbalspaceprogram.com/topic/170211-*/)
 	+ [Tokamak Industries](https://forum.kerbalspaceprogram.com/index.php?/topic/163166-*/) 
 * [TweakScale Companion Multipass](https://github.com/TweakScale/Companion_Multipass) *Beta*
 	+ [MechJeb 2 ](https://forum.kerbalspaceprogram.com/index.php?/topic/154834-*/)
 	+ [Tarsier Space Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/154853-*/)
 * [TweakScale Companion SpannerMonkey](https://github.com/TweakScale/Companion_SMCE) *Beta*
 	+ [Large Ship Parts pack](https://forum.kerbalspaceprogram.com/index.php?/topic/155992-*/) 
+	+ [SM Marine](https://forum.kerbalspaceprogram.com/topic/142557-*/)
 * [TweakScale Companion for Rockets](https://github.com/TweakScale/Companion_Rockets) *Beta*
 	+ [Arc Aerospace](https://forum.kerbalspaceprogram.com/index.php?/topic/165224-*/)
 	+ [RealEngines](https://forum.kerbalspaceprogram.com/index.php?/topic/154624-*/)

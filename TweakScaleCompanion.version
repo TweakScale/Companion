@@ -1,13 +1,13 @@
 {
-	"NAME"		: "TweakScale Companion (The UberPaket)",
+	"NAME"		: "TweakScale Companion (The ÜberPaket)",
 	"URL"		: "https://raw.githubusercontent.com/TweakScale/Companion/master/TweakScaleCompanion.version",
 	"DOWNLOAD"	: "https://github.com/TweakScale/Companion/releases",
 
 	"VERSION":{
 		"MAJOR":2023,
-		"MINOR":3,
-		"PATCH":28,
-		"BUILD":4
+		"MINOR":10,
+		"PATCH":21,
+		"BUILD":0
 		},
 	"KSP_VERSION_MIN":{
 		"MAJOR":1,
