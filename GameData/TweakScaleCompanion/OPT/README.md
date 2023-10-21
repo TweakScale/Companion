@@ -5,23 +5,23 @@ Adds (up to date) TweakScale /L patches for Orbit Portal Technologies (OPT).
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_OPT)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_OPT/issues)
+* [Source](https://github.com/TweakScale/Companion_OPT)
+	+ [Issue Tracker](https://github.com/TweakScale/Companion_OPT/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_OPT/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_OPT/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/TweakScale/Companion_OPT/blob/master/README.md)
+	+ [Install Instructions](https://github.com/TweakScale/Companion_OPT/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_OPT) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_OPT/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_OPT/Archive)
+	+ [Source and Binaries](https://github.com/TweakScale/Companion_OPT) on GitHub.
+	+ [Latest Release](https://github.com/TweakScale/Companion_OPT/releases)
+		- [Binaries](https://github.com/TweakScale/Companion_OPT/Archive)
 
 
 ## Description
 
-**TweakScale Companion for Orbit Portal Technologies (OPT)** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*ksp-141-tweakscale-under-lisias-management-24310-2019-1030*/) support for ( surprisingly :P ) OPT [Continued](https://forum.kerbalspaceprogram.com/index.php?/topic/196187-*/), [Legacy](https://spacedock.info/mod/711/Orbit%20Portal%20Technology%20%5BOPT%5D%20Spaceplane%20Parts) and [Classic](https://forum.kerbalspaceprogram.com/index.php?/topic/87956-*/).
+**TweakScale Companion for Orbit Portal Technologies (OPT)** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*ksp-141-tweakscale-under-lisias-management-24310-2019-1030*/) support for ( surprisingly :P ) OPT Continued, Legacy and Classic.
 
 
 ## Installation
@@ -50,7 +50,8 @@ Detailed installation instructions are now on its own file (see the [In a Hurry]
 			- You recognize and respect any trademarks
 			- You don't impersonate the authors, neither redistribute a derivative that could be misrepresented as theirs.
 			- You credit the author and republish the copyright notices on your works where the work is used.
-			- You relicense (and fully comply) your works using GPL 2.0 (or later)
+			- You relicense (and fully comply) your works using GPL 2.0
+				- Please note that upgrading the license to GPLv3 **IS NOT ALLOWED** for this work, as the author **DID NOT** added the "or (at your option) any later version" on the license.
 			- You don't mix your work with GPL incompatible works.
 	+ If by some reason the GPL would be invalid for you, rest assured that you still retain the right to Use the Work under SKL 1.0.
 
@@ -67,7 +68,7 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
+	+ [GitHub](https://github.com/TweakScale/TweakScale)
 * OPT
 	+ Classic:
 		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/87956-*)
