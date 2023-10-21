@@ -1,13 +1,13 @@
 {
 	"NAME"		: "TweakScale Companion Multipass",
-	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_Multipass/master/TweakScaleCompanion.Multipass.version",
-	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion_Multipass/releases",
-	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_Multipass/master/CHANGE_LOG.md",
-	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_Multipass/master/CHANGES.md",
+	"URL"		: "https://raw.githubusercontent.com/TweakScale/Companion_Multipass/master/TweakScaleCompanion.Multipass.version",
+	"DOWNLOAD"	: "https://github.com/TweakScale/Companion_Multipass/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/TweakScale/Companion_Multipass/master/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/TweakScale/Companion_Multipass/master/CHANGES.md",
 	"VERSION":{
 		"MAJOR":0,
-		"MINOR":0,
-		"PATCH":2,
+		"MINOR":1,
+		"PATCH":0,
 		"BUILD":0
 		},
 	"KSP_VERSION_MIN":{
