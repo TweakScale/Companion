@@ -1,14 +1,14 @@
 {
 	"NAME"		: "TweakScale Companion for SMCE",
-	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_SMCE/master/TweakScaleCompanion_SMCE.version",
-	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion_SMCE/releases",
-	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_SMCE/master/CHANGE_LOG.md",
-	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_SMCE/master/CHANGES.md",
+	"URL"		: "https://raw.githubusercontent.com/TweakScale/Companion_SMCE/master/TweakScaleCompanion_SMCE.version",
+	"DOWNLOAD"	: "https://github.com/TweakScale/Companion_SMCE/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/TweakScale/Companion_SMCE/master/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/TweakScale/Companion_SMCE/master/CHANGES.md",
 	"VERSION":{
 		"MAJOR":0,
 		"MINOR":0,
-		"PATCH":1,
-		"BUILD":1
+		"PATCH":2,
+		"BUILD":0
 		},
 	"KSP_VERSION_MIN":{
 		"MAJOR":1,
