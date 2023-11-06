@@ -4,18 +4,18 @@ Adds (up to date) TweakScale /L patches for Add'Ons that adds features to KSP it
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks/issues)
+* [Source](https://github.com/TweakScale/Companion_Frameworks)
+	+ [Issue Tracker](https://github.com/TweakScale/Companion_Frameworks/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/TweakScale/Companion_Frameworks/blob/master/README.md)
+	+ [Install Instructions](https://github.com/TweakScale/Companion_Frameworks/blob/master/INSTALL.md)
 	+ [Known Issues](./KNOWN_ISSUES/md)
 	+ [Change Log](./CHANGE_LOG.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks/Archive)
+	+ [Source and Binaries](https://github.com/TweakScale/Companion_Frameworks) on GitHub.
+	+ [Latest Release](https://github.com/TweakScale/Companion_Frameworks/releases)
+		- [Binaries](https://github.com/TweakScale/Companion_Frameworks/Archive)
 
 
 ## Description
@@ -24,11 +24,11 @@ Adds (up to date) TweakScale /L patches for some KSP Enhancing Add'Ons that need
 
 Currently supports:
 
-* [Test Flight](https://forum.kerbalspaceprogram.com/index.php?/topic/99043-*/)
-* [Cryo Tanks](https://forum.kerbalspaceprogram.com/index.php?/topic/195042-*/)
-* [Space Dust](https://forum.kerbalspaceprogram.com/index.php?/topic/197723-*/)
-* [System Heat](https://forum.kerbalspaceprogram.com/index.php?/topic/193909-*/)
-* [Waterfall](https://forum.kerbalspaceprogram.com/index.php?/topic/196309-*/)
+* Test Flight
+* Cryo Tanks
+* Space Dust
+* System Heat
+* Waterfall
 
 
 ## Installation
@@ -79,7 +79,7 @@ There's no upstream, I'm (g)ROOT. :)
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
+	+ [GitHub](https://github.com/TweakScale/TweakScale)
 * Test Flight ([Agthorn](https://forum.kerbalspaceprogram.com/index.php?/profile/99662-agathorn/))
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/99043-122-testflight-v180-01-may-2017-bring-flight-testing-to-ksp/) 
 	+ [Github](https://github.com/KSP-RO/TestFlight/releases)

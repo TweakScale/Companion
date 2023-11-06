@@ -1,14 +1,14 @@
 {
 	"NAME"		: "TweakScale Companion for Frameworks",
-	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_Frameworks/master/TweakScaleCompanion_Frameworks.version",
-	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion_Frameworks/releases",
-	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_Frameworks/master/CHANGE_LOG.md",
-	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_Frameworks/master/CHANGES.md",
+	"URL"		: "https://raw.githubusercontent.com/TweakScale/Companion_Frameworks/master/TweakScaleCompanion_Frameworks.version",
+	"DOWNLOAD"	: "https://github.com/TweakScale/Companion_Frameworks/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/TweakScale/Companion_Frameworks/master/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/TweakScale/Companion_Frameworks/master/CHANGES.md",
 	"VERSION":{
 		"MAJOR":0,
 		"MINOR":4,
 		"PATCH":0,
-		"BUILD":2
+		"BUILD":3
 		},
 	"KSP_VERSION_MIN":{
 		"MAJOR":1,

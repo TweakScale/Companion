@@ -1,5 +1,8 @@
 # TweakScale Companion :: Frameworks :: Change Log
 
+* 2023-1106: 0.4.0.3 **Beta** (LisiasT) for KSP >= 1.2.2
+	+ Works around a weird (new?) bug on KSP's Loading System.
+		- See Really, really, really dumb mistake. See [Forum](https://forum.kerbalspaceprogram.com/topic/179030-ksp-130-tweakscale-under-lisias-management-2474-2023-1007/?do=findComment&comment=4337281) for details. 
 * 2023-0416: 0.4.0.2 **Beta** (LisiasT) for KSP >= 1.2.2
 	+ Removes a spurious dependency clausule on `TweakScalerTestFlightCore`
 * 2023-0328: 0.4.0.1 **Beta** (LisiasT) for KSP >= 1.2.2
@@ -22,7 +25,7 @@
 * 2021-0919: 0.1.0.2 **Beta** (LisiasT) for KSP >= 1.8
 	+ A less than ideal initialisation routine were fixed.
 	+ Closes Issues:
-		- [#2](https://github.com/net-lisias-ksp/TweakScaleCompanion_Visuals/issues/2) Race Condition while initialising the PartModule
+		- [#2](https://github.com/TweakScale/Companion_Frameworks/issues/2) Race Condition while initialising the PartModule
 * 2021-0908: 0.1.0.1 **Beta** (LisiasT) for KSP >= 1.8
 	+ Short circuiting some Dependency Checks due a new misbehaviour introduced on KSP 1.12.2
 * 2021-0705: 0.1.0.0 **Beta** (LisiasT) for KSP >= 1.8
