@@ -33,6 +33,10 @@ The purpose of this project is to provide a centralised, controlled and curated 
 
 #### Gold Status
 
+* [TweakScale Companion for AirCrafts](https://github.com/TweakScale/Companion_AirCrafts) *RC*
+	- [Airplane Plus](https://forum.kerbalspaceprogram.com/topic/140262-14x-18x-airplane-plus-r264-fixed-issuesgithub-is-up-to-date-dec-21-2019/)
+	- [Neist Airline Parts](https://forum.kerbalspaceprogram.com/topic/174152-wip-neist-airliner-parts/)
+	- [Stock eXTension - SXT](https://forum.kerbalspaceprogram.com/topic/151129-112x-sxt-continued/)
 * [TweakScale Companion for Firespitter](https://github.com/TweakScale/Companion_FS)
 	+ For (surpringly :P) [Firespiter](https://forum.kerbalspaceprogram.com/index.php?/topic/22583-*/)
 	+ and [Firespiter Extended](https://forum.kerbalspaceprogram.com/index.php?/topic/184773-*/)
@@ -57,10 +61,6 @@ The purpose of this project is to provide a centralised, controlled and curated 
 
 #### Alphas, Betas and Release Candidates
 
-* [TweakScale Companion for AirCrafts](https://github.com/TweakScale/Companion_AirCrafts) *RC*
-	- [Airplane Plus](https://forum.kerbalspaceprogram.com/topic/140262-14x-18x-airplane-plus-r264-fixed-issuesgithub-is-up-to-date-dec-21-2019/)
-	- [Neist Airline Parts](https://forum.kerbalspaceprogram.com/topic/174152-wip-neist-airliner-parts/)
-	- [Stock eXTension - SXT](https://forum.kerbalspaceprogram.com/topic/151129-112x-sxt-continued/)
 * [TweakScale Companion Frameworks](https://github.com/TweakScale/Companion_Frameworks) *Beta*
 	+ [Test Flight](https://forum.kerbalspaceprogram.com/index.php?/topic/99043-*/)
 	+ [Cryo Tanks](https://forum.kerbalspaceprogram.com/index.php?/topic/195042-*/)
