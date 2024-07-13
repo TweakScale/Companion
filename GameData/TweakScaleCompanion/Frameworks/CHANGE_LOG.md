@@ -1,5 +1,7 @@
 # TweakScale Companion :: Frameworks :: Change Log
 
+* 2024-0713: 0.4.0.4 (LisiasT) for KSP >= 1.2.2
+	+ Correctly scales System Heat.
 * 2023-1106: 0.4.0.3 **Beta** (LisiasT) for KSP >= 1.2.2
 	+ Works around a weird (new?) bug on KSP's Loading System.
 		- See Really, really, really dumb mistake. See [Forum](https://forum.kerbalspaceprogram.com/topic/179030-ksp-130-tweakscale-under-lisias-management-2474-2023-1007/?do=findComment&comment=4337281) for details. 
