@@ -1,5 +1,11 @@
 # TweakScale Companion :: Firespitter :: Change Log
 
+* 2024-0711: 1.3.0.2 (LisiasT) for KSP >= 1.3
+	+ Fixes a screw up on the distribution.
+		- Thanks to [kmsheesh](https://forum.kerbalspaceprogram.com/profile/222111-kmsheesh/) for the heads up!
+* 2023-1005: 1.3.0.1 (LisiasT) for KSP >= 1.3
+	+ Adjustments on the documentation.
+	+ Small, cosmetic fixes (including grammars)
 * 2023-0317: 1.3.0.0 (LisiasT) for KSP >= 1.3
 	+ Removes deprecated calls to KSPe. Minimum target is v2.5 now.
 	+ Renders it compatible to TweakScale 2.4.7.0 and superior only.
@@ -15,7 +21,7 @@
 	+ Copes with KSPe new installment checks.
 	+ Promoted to Release Candidate! #HURRAY
 * 2020-0917: 0.0.2.1 Beta (LisiasT) for KSP >= 1.4
-	+ Copes with TweakScale's new feature implemented on its Issue [#142 Add ignoreResourcesForCost to the TweakScale module attributes](https://github.com/net-lisias-ksp/TweakScale/issues/142)
+	+ Copes with TweakScale's new feature implemented on its Issue [#142 Add ignoreResourcesForCost to the TweakScale module attributes](https://github.com/TweakScale/TweakScale/issues/142)
 * 2020-0829: 0.0.2.0 Beta (LisiasT) for KSP >= 1.4
 	+ Promoting the stunt to Beta! :)
 	+ Patches overhaul.
@@ -28,10 +34,10 @@
 * 2020-0716: 0.0.1.1 (LisiasT) for KSP >= 1.4 Alpha
 	+ Revised code for the `FSbuyoancy` scaler.
 		- Now it works correctly, and I know why! :D
-	+ Better (and safer) deactivation code using info gathered from [TweakScale](https://github.com/net-lisias-ksp/TweakScale/issues/125)
+	+ Better (and safer) deactivation code using info gathered from [TweakScale](https://github.com/TweakScale/TweakScale/issues/125)
 	+ Startup check for dependencies
 * 2020-0531: 0.0.1.0 (LisiasT) for KSP >= 1.4 Alpha
 	+ Initial Public Release
 	+ Closes Issues:
-		- [#1](https://github.com/net-lisias-ksp/TweakScaleCompantion_FS/issues/1) Weird issue with SXT parts using FSBuoyancy
-		- [#2](https://github.com/net-lisias-ksp/TweakScaleCompantion_FS/issues/2) Properly Support FSBuoyancy
+		- [#1](https://github.com/TweakScale/TweakScaleCompantion_FS/issues/1) Weird issue with SXT parts using FSBuoyancy
+		- [#2](https://github.com/TweakScale/TweakScaleCompantion_FS/issues/2) Properly Support FSBuoyancy

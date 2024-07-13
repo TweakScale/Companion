@@ -5,26 +5,23 @@ Adds (up to date) TweakScale /L patches for Firespitter.
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_FS)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_FS/issues)
+* [Source](https://github.com/TweakScale/Companion_FS)
+	+ [Issue Tracker](https://github.com/TweakScale/Companion_FS/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_FS/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_FS/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/TweakScale/Companion_FS/blob/master/README.md)
+	+ [Install Instructions](https://github.com/TweakScale/Companion_FS/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_FS) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_FS/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_FS/Archive)
+	+ [Source and Binaries](https://github.com/TweakScale/Companion_FS) on GitHub.
+	+ [Latest Release](https://github.com/TweakScale/Companion_FS/releases)
+		- [Binaries](https://github.com/TweakScale/Companion_FS/Archive)
 
 
 ## Description
 
-**TweakScale Companion for Firespitter** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/) support for 
-
-* ( surprisingly :P ) [Firespitter](https://forum.kerbalspaceprogram.com/index.php?/topic/22583-*/) 
-* [Firespitter Extended](https://forum.kerbalspaceprogram.com/index.php?/topic/184773-*/)
+**TweakScale Companion for Firespitter** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/) support for  ( surprisingly :P ) `Firespitter` and `Firespitter Extended`.
 
 
 ## Installation
@@ -71,7 +68,7 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
+	+ [GitHub](https://github.com/TweakScale/TweakScale)
 * Firespitter ([Snjo](https://forum.kerbalspaceprogram.com/index.php?/profile/57198-snjo/))
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/22583-firespitter-propeller-plane-and-helicopter-parts-v71-may-5th-for-ksp-10/)
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/firespitter)
