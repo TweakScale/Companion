@@ -1,5 +1,5 @@
 name	friendly_name	install_dir	download_url	[empty]	status
-TweakScaleCompanion_AirCrafts	TweakScale Companion for AirCrafts	GameDatabase::TweakScaleCompanion::AirCrafts	https://github.com/TweakScale/Companion_AirCrafts/releases		unreleased
+TweakScaleCompanion_AirCrafts	TweakScale Companion for AirCrafts	GameDatabase::TweakScaleCompanion::AirCrafts	https://github.com/TweakScale/Companion_AirCrafts/releases		stable
 TweakScaleCompanion_ChitChat	TweakScale Companion Chit Chat	GameDatabase::TweakScaleCompanion::ChitChat	https://github.com/TweakScale/Companion_ChitChat/releases		unreleased
 TweakScaleCompanion_FitAndHealth	TweakScale Companion Fitness & Health	GameDatabase::TweakScaleCompanion::FitAndHealth	https://github.com/TweakScale/Companion_FitAndHealth/releases		unreleased
 TweakScaleCompanion_FS	TweakScale Companion for Firespitter	GameDatabase::TweakScaleCompanion::FS	https://github.com/TweakScale/Companion_FS/releases		stable
@@ -12,7 +12,7 @@ TweakScaleCompanion_OPT	TweakScale Companion for OPT	GameDatabase::TweakScaleCom
 TweakScaleCompanion_ReStockPlus	TweakScale Companion for ReStockPlus	GameDatabase::TweakScaleCompanion::ReStockPlus	https://github.com/TweakScale/Companion_ReStockPlus/releases		stable
 TweakScaleCompanion_Rockets	TweakScale Companion Rockets	GameDatabase::TweakScaleCompanion::Rockets	https://github.com/TweakScale/Companion_Rockets/releases		beta
 TweakScaleCompanion_SMCE	TweakScale Companion SMCE (SpannerMonkey)	GameDatabase::TweakScaleCompanion::SMCE	https://github.com/TweakScale/Companion_SMCE/releases		beta
-TweakScaleCompanion_Frameworks	TweakScale Companion Frameworks	GameDatabase::TweakScaleCompanion::Frameworks	https://github.com/TweakScale/Companion_Frameworks/releases		beta
+TweakScaleCompanion_Frameworks	TweakScale Companion Frameworks	GameDatabase::TweakScaleCompanion::Frameworks	https://github.com/TweakScale/Companion_Frameworks/releases		stable
 TweakScaleCompanion_PKMC	TweakScale Companion PKMC	GameDatabase::TweakScaleCompanion::PKMC	https://github.com/TweakScale/Companion_PKMC/releases		stable
 TweakScaleCompanion_US	TweakScale Companion for Universal Storage	GameDatabase::TweakScaleCompanion::US	https://github.com/TweakScale/Companion_US/releases		unreleased
 TweakScaleCompanion_FuelSwitches	TweakScale Companion for Fuel Switches	GameDatabase::TweakScaleCompanion::FuelSwitches	https://github.com/TweakScale/Companion_FuelSwitches/releases		unreleased

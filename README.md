@@ -40,6 +40,12 @@ The purpose of this project is to provide a centralised, controlled and curated 
 * [TweakScale Companion for Firespitter](https://github.com/TweakScale/Companion_FS)
 	+ For (surpringly :P) [Firespiter](https://forum.kerbalspaceprogram.com/index.php?/topic/22583-*/)
 	+ and [Firespiter Extended](https://forum.kerbalspaceprogram.com/index.php?/topic/184773-*/)
+* [TweakScale Companion Frameworks](https://github.com/TweakScale/Companion_Frameworks)
+	+ [Test Flight](https://forum.kerbalspaceprogram.com/index.php?/topic/99043-*/)
+	+ [Cryo Tanks](https://forum.kerbalspaceprogram.com/index.php?/topic/195042-*/)
+	+ [Space Dust](https://forum.kerbalspaceprogram.com/index.php?/topic/197723-*/)
+	+ [System Heat](https://forum.kerbalspaceprogram.com/index.php?/topic/193909-*/)
+	+ [Waterfall](https://forum.kerbalspaceprogram.com/index.php?/topic/196309-*/)
 * [TweakScale Companion for KIAS](https://github.com/TweakScale/Companion_KIAS)
 	+ [KIS](https://forum.kerbalspaceprogram.com/index.php?/topic/149848-*)
 	+ [KAS](https://forum.kerbalspaceprogram.com/index.php?/topic/142594-*)
@@ -61,12 +67,6 @@ The purpose of this project is to provide a centralised, controlled and curated 
 
 #### Alphas, Betas and Release Candidates
 
-* [TweakScale Companion Frameworks](https://github.com/TweakScale/Companion_Frameworks) *Beta*
-	+ [Test Flight](https://forum.kerbalspaceprogram.com/index.php?/topic/99043-*/)
-	+ [Cryo Tanks](https://forum.kerbalspaceprogram.com/index.php?/topic/195042-*/)
-	+ [Space Dust](https://forum.kerbalspaceprogram.com/index.php?/topic/197723-*/)
-	+ [System Heat](https://forum.kerbalspaceprogram.com/index.php?/topic/193909-*/)
-	+ [Waterfall](https://forum.kerbalspaceprogram.com/index.php?/topic/196309-*/)
 * [TweakScale Companion for OPT](https://github.com/TweakScale/Companion_OPT) *_Alpha_*
 	+ For OPT
 		- [Classic](https://forum.kerbalspaceprogram.com/index.php?/topic/87956-*/)
