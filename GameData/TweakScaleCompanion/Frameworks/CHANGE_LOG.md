@@ -1,5 +1,9 @@
 # TweakScale Companion :: Frameworks :: Change Log
 
+* 2024-1008: 0.4.0.5 (LisiasT) for KSP >= 1.2.2
+	+ Update `TweakScaleCompanion.Frameworks.Waterfall` to cope with the changes made on Waterfall 0.10.0.0.
+	+ Works issues:
+		- [#10](https://github.com/TweakScale/Companion_Frameworks/issues/10) 
 * 2024-0713: 0.4.0.4 (LisiasT) for KSP >= 1.2.2
 	+ Correctly scales System Heat.
 * 2023-1106: 0.4.0.3 **Beta** (LisiasT) for KSP >= 1.2.2
