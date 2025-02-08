@@ -5,28 +5,28 @@ Adds (up to date) TweakScale /L patches for Post Kerbin Mining Corporation Add'O
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/issues)
+* [Source](https://github.com/TweakScale/Companion_PKMC)
+	+ [Issue Tracker](https://github.com/TweakScale/Companion_PKMC/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/TweakScale/Companion_PKMC/blob/master/README.md)
+	+ [Install Instructions](https://github.com/TweakScale/Companion_PKMC/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_PKMC/Archive)
+	+ [Source and Binaries](https://github.com/TweakScale/Companion_PKMC) on GitHub.
+	+ [Latest Release](https://github.com/TweakScale/Companion_PKMC/releases)
+		- [Binaries](https://github.com/TweakScale/Companion_PKMC/Archive)
 
 
 ## Description
 
-**TweakScale Companion for Post Kerbin Mining Corporation Add'Ons** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for ( surprisingly :P ) [Near Future Add'Ons](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-please-welcome-near-future-exploration/) and others from the [Post Kerbin Mining Corporation](https://post-kerbin-mining-corporation.github.io).
+**TweakScale Companion for Post Kerbin Mining Corporation Add'Ons** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for ( surprisingly :P ) Near Future Add'Ons](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-18x-near-future-technologies-please-welcome-near-future-exploration/) and others from the [Post Kerbin Mining Corporation](https://post-kerbin-mining-corporation.github.io).
 
 Currently supporting:
 
-* [Far Future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/199070-*/)
-* [Near Future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-*/)
+* Far Future Technologies
+* Near Future Technologies
 	+ Near Future Aeronautics
 	+ Near Future Construction
 	+ Near Future Electrical
@@ -36,7 +36,7 @@ Currently supporting:
 	+ Near Future Propulsion
 	+ Near Future Solar
 	+ Near Future Space Craft
-* [Stockalike Station Parts Expansion](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*/)
+
 
 ## Installation
 
@@ -82,7 +82,7 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
+	+ [GitHub](https://github.com/TweakScale/TweakScale)
 * [Far Future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/199070-*/)
 	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/far-future-technologies)
 	+ [SpaceDock](https://spacedock.info/mod/2603/Far%20Future%20Technologies) 
@@ -124,7 +124,3 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 		- [CurseForge](https://spacedock.info/mod/708/Near%20Future%20Spacecraft)
 		- [SpaceDock](https://kerbal.curseforge.com/projects/near-future-spacecraft-parts) 
 		- [GitHub](https://github.com/ChrisAdderley/NearFutureSpacecraft/releases)
-* [Stockalike Station Parts Expansion](https://forum.kerbalspaceprogram.com/index.php?/topic/170211-*/)
-	+ [CurseForge](https://kerbal.curseforge.com/projects/stockalike-station-parts-expansion-redux)
-	+ [SpaceDock](https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux) 
-	+ [GitHub](https://github.com/ChrisAdderley/StationPartsExpansionRedux/releases)
