@@ -5,18 +5,19 @@ Adds (up to date) TweakScale /L patches for many stand alone Add'Ons or packs ab
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_LivingStyle)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_LivingStyle/issues)
+* [Source](https://github.com/TweakScale/Companion_LivingStyle)
+	+ [Issue Tracker](https://github.com/TweakScale/Companion_LivingStyle/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_LivingStyle/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_LivingStyle/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/TweakScale/Companion_LivingStyle/blob/master/README.md)
+	+ [Install Instructions](https://github.com/TweakScale/Companion_LivingStyle/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_LivingStyle) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_LivingStyle/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_LivingStyle/Archive)
+	+ [Project Homepage](https://ksp.lisias.net/add-ons/TweakScaleCompanion/) 
+	+ [Source and Binaries](https://github.com/TweakScale/Companion_LivingStyle) on GitHub.
+	+ [Latest Release](https://github.com/TweakScale/Companion_LivingStyle/releases)
+		- [Binaries](https://github.com/TweakScale/Companion_LivingStyle/Archive)
 
 
 ## Description
@@ -24,34 +25,12 @@ Adds (up to date) TweakScale /L patches for many stand alone Add'Ons or packs ab
 **TweakScale Companion Living Style** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/) support for the following Add'Ons:
 
 * CxAerospace Station Parts
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/138910-*/)
-	+ [SpaceDock](https://spacedock.info/mod/64/CxAerospace:%20Station%20Parts%20Pack)
-	+ [Imgur](https://imgur.com/a/mcIwe)
 * (PorkJet's) HabPack
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/58534-*/)
-	+ EoL, currently distributed on Tokamak Industries (see below)
 * HabTech (1)
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/133501-*/)
-	+ [SpaceDock](https://spacedock.info/mod/449/HabTech)
-	+ [GitHub](https://github.com/LouisB3/HabTech-Classic/) (Community maintenance)
 * HabTech 2
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/133501-*/)
-	+ [SpaceDock](https://spacedock.info/mod/2078/HabTech2)
-	+ [GitHub](https://github.com/benjee10/HabTech2)
 * Station Parts Expansion
-    + [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/155480-*/)
-    + [Imgur](https://imgur.com/a/k6qrA)
-    + [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/stockalike-station-parts-expansion)
-    + [SpaceDock](https://spacedock.info/mod/736/Stockalike%20Station%20Parts%20Expansion)
-    + [Github](https://github.com/ChrisAdderley/StationPartsExpansion)
+* Station Parts Expansion Redux
 * Tokamak Industries
-	+ Original 
-		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/146633-*/)
-		- [GitHub](https://github.com/maekern/Tokamak-Refurbished-Parts/releases)
-	+ Current Maintainer
-		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/163166-*/)
-		- [SpaceDock](https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts)
-		- [GitHub](https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts)
 
 And more to come!
 
@@ -82,7 +61,8 @@ Detailed installation instructions are now on its own file (see the [In a Hurry]
 			- You recognize and respect any trademarks
 			- You don't impersonate the authors, neither redistribute a derivative that could be misrepresented as theirs.
 			- You credit the author and republish the copyright notices on your works where the work is used.
-			- You relicense (and fully comply) your works using GPL 2.0 (or later)
+			- You relicense (and fully comply) your works using GPL 2.0
+				- Please note that upgrading the license to GPLv3 **IS NOT ALLOWED** for this work, as the author **DID NOT** added the "or (at your option) any later version" on the license.
 			- You don't mix your work with GPL incompatible works.
 	+ If by some reason the GPL would be invalid for you, rest assured that you still retain the right to Use the Work under SKL 1.0.
 
@@ -94,11 +74,44 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 ## References
 
 * TweakScale /L ([LisiasT](https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/))
+	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScale) on L Aerospace
+	+ [Reddit](https://www.reddit.com/r/TweakScale/)
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScale) on L Aerospace
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale).
-* TweakScale Companion Program
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*/) 
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScaleCompanion)
+	+ [GitHub](https://github.com/TweakScale/TweakScale)
+* CxAerospace Station Parts
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/138910-*/)
+	+ [SpaceDock](https://spacedock.info/mod/64/CxAerospace:%20Station%20Parts%20Pack)
+	+ [Imgur](https://imgur.com/a/mcIwe)
+* (PorkJet's) HabPack
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/58534-*/)
+	+ EoL, currently distributed on Tokamak Industries (see below)
+* HabTech (1)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/133501-*/)
+	+ [SpaceDock](https://spacedock.info/mod/449/HabTech)
+	+ [GitHub](https://github.com/LouisB3/HabTech-Classic/) (Community maintenance)
+* HabTech 2
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/133501-*/)
+	+ [SpaceDock](https://spacedock.info/mod/2078/HabTech2)
+	+ [GitHub](https://github.com/benjee10/HabTech2)
+* Station Parts Expansion
+    + [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/155480-*/)
+    + [Imgur](https://imgur.com/a/k6qrA)
+    + [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/stockalike-station-parts-expansion)
+    + [SpaceDock](https://spacedock.info/mod/736/Stockalike%20Station%20Parts%20Expansion)
+    + [Github](https://github.com/ChrisAdderley/StationPartsExpansion)
+* Station Parts Expansion Redux
+    + [Forum](https://forum.kerbalspaceprogram.com/topic/170211-*/)
+    + [Imgur](https://imgur.com/a/wBCin)
+    + [CurseForge](https://kerbal.curseforge.com/projects/stockalike-station-parts-expansion-redux)
+    + [SpaceDock](https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux)
+    + [Github](https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/)
+* Tokamak Industries
+	+ Original - [Tokamak](https://forum.kerbalspaceprogram.com/profile/115593-tokamak/)
+		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/146633-*/)
+		- [GitHub](https://github.com/maekern/Tokamak-Refurbished-Parts/releases)
+	+ Current - [linuxgurugamer](https://forum.kerbalspaceprogram.com/profile/129964-linuxgurugamer/)
+		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/163166-*/)
+		- [SpaceDock](https://spacedock.info/mod/1444/Tokamak%20Refurbished%20Parts)
+		- [GitHub](https://github.com/linuxgurugamer/Tokamak-Refurbished-Parts)

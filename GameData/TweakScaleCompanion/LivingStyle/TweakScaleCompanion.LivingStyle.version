@@ -1,14 +1,14 @@
 {
 	"NAME"		: "TweakScale Companion Living Style",
-	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_LivingStyle/master/TweakScaleCompanion.Multipass.version",
-	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/TweakScaleCompanion_LivingStyle/releases",
-	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_LivingStyle/master/CHANGE_LOG.md",
-	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/TweakScaleCompanion_LivingStyle/master/CHANGES.md",
+	"URL"		: "https://raw.githubusercontent.com/TweakScale/Companion_LivingStyle/master/TweakScaleCompanion.Multipass.version",
+	"DOWNLOAD"	: "https://github.com/TweakScale/Companion_LivingStyle/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/TweakScale/Companion_LivingStyle/master/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/TweakScale/Companion_LivingStyle/master/CHANGES.md",
 	"VERSION":{
 		"MAJOR":0,
 		"MINOR":0,
 		"PATCH":3,
-		"BUILD":0
+		"BUILD":1
 		},
 	"KSP_VERSION_MIN":{
 		"MAJOR":1,
