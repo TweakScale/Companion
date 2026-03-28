@@ -67,6 +67,8 @@ The purpose of this project is to provide a centralised, controlled and curated 
 
 #### Alphas, Betas and Release Candidates
 
+* [TweakScale Companion Gambiarras](https://github.com/TweakScale/Companion_Gambiarras)
+	+ Oh, boy... 🤕
 * [TweakScale Companion for OPT](https://github.com/TweakScale/Companion_OPT) *_Alpha_*
 	+ For OPT
 		- [Classic](https://forum.kerbalspaceprogram.com/index.php?/topic/87956-*/)
