@@ -6,10 +6,44 @@ IFS=$'\n\t'
 source ./CONFIG.inc
 IFS=$' '
 
+__fix_file_permission() {
+	local DLL=$1
+	local targetbindir=$2
+
+	# God damned unity/ksp - apparently they go the extra mile to be sure your installment is 100% insecure!! :/
+	# If the DLL is not writable, it's not found by Unity/KSP. Damn.
+	if [ -f "$targetbindir/$DLL" ]  ; then
+		chmod u+w "$targetbindir/$DLL"
+	fi
+	if [ -f "${KSP_DEV}$targetbindir/$DLL" ]  ; then
+		chmod u+w "${KSP_DEV}$targetbindir/$DLL"
+	fi
+}
+
+__deploy() {
+	local DLL=$1
+	local targetbindir=$2
+
+	if [ -f "./bin/Release/$DLL" ] ; then
+		cp "./bin/Release/$DLL" "$targetbindir"
+		if [ -d "${KSP_DEV}/GameData/" ] ; then
+			cp "./bin/Release/$DLL" "${KSP_DEV}$targetbindir"
+		fi
+	fi
+	if [ -f "./bin/Debug/$DLL" ] ; then
+		if [ -d "${KSP_DEV}/$GameData/" ] ; then
+			cp "./bin/Debug/$DLL" "${KSP_DEV}$targetbindir"
+		fi
+	fi
+
+	__fix_file_permission $DLL $targetbindir
+}
+
 check() {
-	if [ ! -d "./GameData/$TARGETBINDIR/" ] ; then
-		rm -f "./GameData/$TARGETBINDIR/"
-		mkdir -p "./GameData/$TARGETBINDIR/"
+	local targetbindir="./GameData/$TARGETBINDIR/"
+	if [ ! -d "$targetbindir" ] ; then
+		rm -f "$targetbindir"
+		mkdir -p "$targetbindir"
 	fi
 
 	for dll in $EXT_DLLS ; do
@@ -25,67 +59,44 @@ deploy_dev() {
 
 	if [ -f "./bin/Release/$DLL" ] ; then
 		cp "./bin/Release/$DLL" "$LIB"
+		chmod -w "$LIB/$DLL"
 	fi
 }
 
 deploy() {
 	local DLL=$1.dll
+	local targetbindir="./GameData/$TARGETBINDIR/"
 
-	if [ -f "./bin/Release/$DLL" ] ; then
-		cp -R "./bin/Release/$DLL" "./GameData/$TARGETBINDIR/"
-		if [ -d "${KSP_DEV}/GameData/$TARGETBINDIR/" ] ; then
-			cp -R "./bin/Release/$DLL" "${KSP_DEV}/GameData/$TARGETBINDIR/"
-		fi
-	fi
-	if [ -f "./bin/Debug/$DLL" ] ; then
-		if [ -d "${KSP_DEV}/GameData/$TARGETBINDIR/" ] ; then
-			cp -R "./bin/Debug/$DLL" "${KSP_DEV}GameData/$TARGETBINDIR/"
-		fi
-	fi
+	__deploy $DLL $targetbindir
 }
 
 deploy_plugindata() {
 	local DLL=$1.dll
+	local targetbindir="./GameData/$TARGETBINDIR/PluginData/"
 
-	if [ -f "./bin/Release/$DLL" ] ; then
-		cp "./bin/Release/$DLL" "./GameData/$TARGETBINDIR/PluginData/"
-		if [ -d "${KSP_DEV}/GameData/" ] ; then
-			cp "./bin/Release/$DLL" "${KSP_DEV}GameData/$TARGETBINDIR/PluginData/"
-		fi
-	fi
-	if [ -f "./bin/Debug/$DLL" ] ; then
-		if [ -d "${KSP_DEV}/GameData/" ] ; then
-			cp "./bin/Debug/$DLL" "${KSP_DEV}GameData/$TARGETBINDIR/PluginData/"
-		fi
-	fi
+	__deploy $DLL $targetbindir
 }
 
 deploy_gamedata() {
 	local PLACE=$1
-	local DLL=$2.dll
+	local DLL="{$PLACE}_$2.dll"
+	local targetbindir="./GameData/"
 
-	if [ -f "./bin/Release/$DLL" ] ; then
-		cp "./bin/Release/$DLL" "./GameData/${PLACE}_$DLL"
-		if [ -d "${KSP_DEV}/GameData/" ] ; then
-			cp "./bin/Release/$DLL" "${KSP_DEV/}GameData/${PLACE}_$DLL"
-		fi
-	fi
-	if [ -f "./bin/Debug/$DLL" ] ; then
-		if [ -d "${KSP_DEV}/GameData/" ] ; then
-			cp "./bin/Debug/$DLL" "${KSP_DEV}GameData/${PLACE}_$DLL"
-		fi
-	fi
+	__deploy $DLL $targetlocaldir
 }
 
 deploy_ext() {
 	local DLL=$1.dll
+	local targetbindir="./GameData/$TARGETBINDIR/"
 
 	if [ -f "$LIB/$DLL" ] ; then
-		cp -R "$LIB/$DLL" "./GameData/$TARGETBINDIR/"
+		cp -R "$LIB/$DLL" "$targetbindir"
 		if [ -d "${KSP_DEV}/GameData/" ] ; then
-			cp -R "$LIB/$DLL" "${KSP_DEV/}GameData/$TARGETBINDIR/"
+			cp -R "$LIB/$DLL" "${KSP_DEV}$targetbindir"
 		fi
 	fi
+
+	__fix_file_permission $DLL $targetbindir
 }
 
 check

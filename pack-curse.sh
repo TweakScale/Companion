@@ -18,7 +18,7 @@ echo $FILE
 clean
 cd GameData
 
-zip -r $FILE ./$PACKAGE/* -x ".*"
+zip -r $FILE ./$TARGETDIR/* -x ".*"
 zip -r $FILE ./ModuleManagerWatchDog/* -x ".*"
 zip -r $FILE ./666_ModuleManagerWatchDog.dll
 zip -r $FILE ./999_Scale_Redist.dll
