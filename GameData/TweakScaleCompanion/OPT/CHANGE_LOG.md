@@ -1,5 +1,8 @@
 # TweakScale Companion :: OPT :: Change Log
 
+* 2026-0721: 0.0.1.2 (LisiasT) for KSP >= 1.2.2
+	+ I let pass throught some safeties for 8 OPT legacy parts.
+	+ Closes [#373](https://github.com/TweakScale/TweakScale/discussions/373)
 * 2023-1005: 0.0.1.1 (LisiasT) for KSP >= 1.2.2
 	+ Updates the Documentation
 	+ Implements Issues:
